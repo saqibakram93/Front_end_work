@@ -1,0 +1,111 @@
+body {
+    background-color: hsl(185, 75%, 39%)
+  }
+  div {
+    position: absolute;
+  }
+  
+  img.img1 {
+    width: 950px;
+    height: 950px;
+   
+  }
+  
+  div.d1 {
+   
+   
+    top: 330px;
+    left: 800px;
+  
+  }
+
+  img.img2 {
+    width: 950px;
+    height: 950px;
+   
+  }
+  img.img3 {
+    width: 350px;
+    height: 135px;
+    border-radius: 8% 8% 0 0;
+   
+  }
+  img.img4 {
+    width: 79px;
+    height: 79px;
+    border-radius: 50% 50%;
+   
+  }
+  
+  div.d2 {
+   
+   
+    bottom: 300px;
+    right: 770px;
+  
+  }
+
+  div.d3 {
+   
+   
+  background-color: hsl(0, 15%, 94%);
+  width: 350px;
+  height: 350px;
+  top: 175px;
+  left: 600px;
+  border-radius: 8% 8% 2% 2%;
+  
+  }
+div.d4{
+  width:80px;
+  height:80px;
+  border:8px solid hsl(0, 15%, 94%);
+  border-radius:50%;
+  top: 265px;
+  left: 725px;
+    
+}
+div.d5{
+    
+    top: 270px;
+    left: 733px;
+    
+}
+div.d6{
+    top: 370px;
+    left: 700px;
+}
+div.d7{
+    top: 470px;
+    left: 600px;
+}
+
+
+
+.p1 {
+    font-size: 18px;
+    font-weight: 900;
+    font-family: "Inter", sans-serif;
+    color: hsl(180, 13%, 13%);
+    
+  }
+
+  .p2 {
+    font-size: 18px;
+    font-weight: 530;
+    font-family: "Inter", sans-serif;
+    color: hsl(180, 10%, 46%);
+    
+  }
+
+  .p3 {
+    font-size: 13px;
+    font-weight: 530;
+    font-family: "Inter", sans-serif;
+    color: hsl(180, 10%, 46%);
+    
+  }
+
+  
+
+  

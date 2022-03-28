@@ -1,0 +1,185 @@
+body {
+    background-color: hsl(0, 0%, 81%);
+  }
+  div {
+    position: absolute;
+  }
+  div.d1 {
+    top: 50px;
+    left: 140px;
+    width: 600px;
+    height: 300px;
+    background-color: hsl(263, 55%, 52%);
+    border-radius: 3% 3%;
+  }
+  div.d1_1{
+    top: 50px;
+    left: 540px;
+    width: 600px;
+    height: 300px;
+  }
+  div.d2 {
+    top: 50px;
+    left: 760px;
+    width: 300px;
+    height: 300px;
+    background-color: hsl(217, 19%, 35%);
+    border-radius: 3% 3%;
+  }
+  div.d3 {
+    top: 50px;
+    left: 1080px;
+    width: 300px;
+    height: 620px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 3% 3%;
+  }
+  div.d4 {
+    top: 370px;
+    left: 140px;
+    width: 300px;
+    height: 300px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 3% 3%;
+  }
+  div.d5 {
+    top: 370px;
+    left: 460px;
+    width: 600px;
+    height: 300px;
+    background-color: rgb(0, 0, 0);
+    border-radius: 3% 3%;
+  }
+  div.d6 { 
+    width: 70px;
+    height: 70px;
+   }
+    #id1{
+    top: 70px;
+    left: 160px;
+    }
+    #id2{
+        top: 70px;
+        left: 780px;
+        }
+        #id3{
+            top: 70px;
+            left: 1100px;
+            }
+            #id4{
+                top: 390px;
+                left: 160px;
+                }
+                #id5{
+                    top: 390px;
+                    left: 480px;
+                    }
+img.img1{
+    border-radius: 50% 50%; 
+}
+#id6{
+  top: 80px;
+  left: 230px;
+  }
+  #id7{
+      top: 80px;
+      left: 850px;
+      }
+      #id8{
+          top: 80px;
+          left: 1170px;
+          }
+          #id9{
+              top: 400px;
+              left: 230px;
+              }
+              #id10{
+                  top: 400px;
+                  left: 550px;
+                  }               
+.p1 {
+    font-size: 18px;
+    font-weight: 700;
+    font-family:serif;
+    color: hsl(0, 0%, 100%); 
+  }
+  .p4 {
+    font-size: 18px;
+    font-weight: 700;
+    font-family:serif;
+    color: hsl(0, 33%, 1%); 
+  }
+  .p2 {
+    font-size: 12px;
+    font-weight: 500;
+    font-family:serif;
+    color: hsl(0, 0%, 100%); 
+  }
+  .p3 {
+    font-size: 12px;
+    font-weight: 500;
+    font-family:serif;
+    color: hsl(0, 33%, 1%);
+  }
+  .p6 {
+    font-size: 21px;
+    font-weight: 700;
+    font-family:serif;
+    color: hsl(0, 0%, 0%);
+  }
+  .p8 {
+    font-size: 15px;
+    font-weight: 300;
+    font-family:serif;
+    color: hsl(220, 29%, 61%);
+  }
+  div.d7 {
+    top: 150px;
+    left: 170px;
+    width: 540px;
+    height: 180px;
+    background-color: hsl(193, 49%, 72%);
+    border-radius: 3% 3%;
+    padding-left: 5px;
+    padding-right: 5px;
+  }
+  div.d8 {
+    top: 150px;
+    left: 790px;
+    width: 240px;
+    height: 180px;
+    background-color: hsl(193, 49%, 72%);
+    border-radius: 3% 3%;
+    padding-left: 5px;
+    padding-right: 5px;
+  }
+  div.d9 {
+    top: 150px;
+    left: 1110px;
+    width: 240px;
+    height: 500px;
+    background-color: hsl(193, 49%, 72%);
+    border-radius: 3% 3%;
+    padding-left: 5px;
+    padding-right: 5px;
+  }
+  div.d10 {
+    top: 470px;
+    left: 170px;
+    width: 240px;
+    height: 180px;
+    background-color: hsl(193, 49%, 72%);
+    border-radius: 3% 3%;
+    padding-left: 5px;
+    padding-right: 5px;
+  }
+  div.d11 {
+    top: 470px;
+    left: 495px;
+    width: 540px;
+    height: 180px;
+    background-color: hsl(193, 49%, 72%);
+    border-radius: 3% 3%;
+    padding-left: 5px;
+    padding-right: 5px;
+  }
