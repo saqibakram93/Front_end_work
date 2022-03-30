@@ -1,0 +1,66 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+}
+div{position:absolute;
+   
+}
+
+div.d1{
+    background-color:hsl(0, 0%, 100%);
+    width:330px;
+    height:530px;
+    top:100px;
+    left:650px;
+    border-radius:5% 5%;
+   
+}
+
+div.d2{
+    
+   
+    top: 115px;
+    left: 665px;
+    
+    
+}
+
+div.d3{
+    
+   
+    text-align: center;
+    top: 430px;
+    left: 690px;
+    
+    
+}
+div.d4{
+    
+   
+    text-align: center;
+    top: 505px;
+    left: 690px;
+    
+    
+}
+
+img{
+    border-radius:5% 5%;
+    height: 300px;
+    width: 300px;
+}
+
+p.p1{
+    
+    font-size: 20px;
+    font-weight:700;
+    font-family: 'Inter', sans-serif;
+    color: hsl(180, 13%, 13%);
+    
+}
+
+p.p2{
+    font-size: 16px;
+    font-family:'Outfit', sans-serif;
+    text-align: center;
+    color: hsl(215, 61%, 78%);
+}
